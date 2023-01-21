@@ -1,4 +1,4 @@
-import 'package:custom_widgets/view/home/home_page.dart';
+import 'package:custom_widgets/features/presentation/view/home/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 
